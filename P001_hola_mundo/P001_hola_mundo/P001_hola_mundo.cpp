@@ -6,7 +6,9 @@
 //Declaracion de variables y operaciones aritmeticas
 
 #include <iostream>
+#include <string>
 #include <time.h>
+#include <cmath>
 #include <math.h>
 #include <locale>//libreria para cambiar idiomas 
 #include <codecvt>//librerias para cambiar codigos de utf
@@ -23,7 +25,6 @@ int main()
     //para guardar numeros enteros reales
     int Edad = 0;
     //PAra guardar numeros enteros iguales
-    char soybatman[9] = " ";
     int Altura = 0;
     float Cali = 0;
     //Para guardar verdades o falsedades 
@@ -38,23 +39,39 @@ int main()
     //Para recibir datos del usuario necesitamos utilizar el protocolo de entrada de datos
     //STD::CIN >> Variable donde se guardaran los datos
     //Hablemos con el usuario y solicitemos la informacion.
-    std::cout << "Primero dime tu sexo ";
+   std::string greeting = "Hola";
+   std::cout << greeting;
+    std::cout << " Primero dime tu sexo ";
     std::cin >> sexo;
     std::cout << " Entonces eres un: " << sexo << " bien, ahora ";
-    std::cout << "quien eres? ";
-    std::cin >> soybatman;
-    std::cout << " woooooooow enserio?, entonces eres " << soybatman << "entonces ";
     std::cout << " Cuentame cuantos años tienes? "; 
     std::cin >> Edad;
     std::cout << "Entonces tienes: " << Edad << " años, super! bienvenido, ";
     std::cout << "Bien, cuanto mides? ";
     std::cin >> Altura;
     std::cout << "Entonces mides: " << Altura << " metros bien perfecto con esto es suciente, buen dia!";
-    float galletas = 0;
     std::cout << "Tu nombre es: " << nombre << std::endl;
     std::cin >> nombre;
     std::cout << "Tu nuevo nombre es: " << nombre << std::endl;
-    
+    bool apagas_el_sistema = true;
+     apagas_el_sistema = false;
+    std::cout << apagas_el_sistema; //1 true
+    std::cout << apagas_el_sistema; //0 false
+    std::cout << " quieres apagar el sistema? ";
+    std::cin >> apagas_el_sistema;
+    std::cout << "bien entonces " << apagas_el_sistema << std::endl;
+    int entero = 10;
+    std::cout << "dame un entero ";
+    std::cin >> entero;
+    float minum = 5.75;
+    std::cout << "dame un flotante ";
+    std::cin >> minum;
+    std::cout << "suma " << (1 + 1) << std::endl;
+    std::cout << "resta " << (1 - 1) << std::endl;
+    std::cout << "multi " << (2 * 1) << std::endl;
+    std::cout << "division " << (2 / 1) << std::endl;
+    std::cout << "poder " << pow(5, 3) << std::endl;
+    std::cout << "raiz cuadrada " << sqrt(25) << std::endl;
 }
 
 
