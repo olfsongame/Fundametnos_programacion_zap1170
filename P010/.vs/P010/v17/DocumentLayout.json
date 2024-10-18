@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Documents\\pipi\\P010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD454016-C62A-41E8-8B2D-6A8D7DD8BEB8}|P010.vcxproj|C:\\Users\\ALUMNO\\Documents\\pipi\\P010\\P010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD454016-C62A-41E8-8B2D-6A8D7DD8BEB8}|P010.vcxproj|solutionrelative:P010.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P010.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\pipi\\P010\\P010.cpp",
+              "RelativeDocumentMoniker": "P010.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\pipi\\P010\\P010.cpp",
+              "RelativeToolTip": "P010.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T13:55:14.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
