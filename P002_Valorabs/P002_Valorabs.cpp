@@ -8,8 +8,8 @@ int main()
     int numero;
 
     // Leer el número
-    cout << "Introduce un número: ";
-    cin >> numero;
+   cout << "Introduce un número: ";
+   cin >> numero;
 
     // Proceso para obtener el valor absoluto
     if (numero < 0) {
@@ -17,7 +17,7 @@ int main()
     }
 
     // Mostrar el valor absoluto
-    cout << "El valor absoluto es: " << numero << endl;
+  cout << "El valor absoluto es: " << numero << endl;
 
     return 0;
 }

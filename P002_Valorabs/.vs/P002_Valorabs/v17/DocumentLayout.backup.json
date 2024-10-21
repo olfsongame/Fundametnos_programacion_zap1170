@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Documents\\pipi\\P002_Valorabs\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Documents\\pipi\\Fundametnos_programacion_zap1170\\P002_Valorabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E206CCE2-6047-4B2D-B152-AC25C3AC29D2}|P002_Valorabs.vcxproj|C:\\Users\\ALUMNO\\Documents\\pipi\\P002_Valorabs\\P002_Valorabs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E206CCE2-6047-4B2D-B152-AC25C3AC29D2}|P002_Valorabs.vcxproj|solutionrelative:P002_Valorabs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALUMNO\\Documents\\pipi\\Fundametnos_programacion_zap1170\\P002_Valorabs\\P002_Valorabs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P002_Valorabs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P002_Valorabs.cpp",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\pipi\\P002_Valorabs\\P002_Valorabs.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\pipi\\Fundametnos_programacion_zap1170\\P002_Valorabs\\P002_Valorabs.cpp",
               "RelativeDocumentMoniker": "P002_Valorabs.cpp",
-              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\pipi\\P002_Valorabs\\P002_Valorabs.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\pipi\\Fundametnos_programacion_zap1170\\P002_Valorabs\\P002_Valorabs.cpp",
               "RelativeToolTip": "P002_Valorabs.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-18T14:25:13.77Z",
               "EditorCaption": ""
