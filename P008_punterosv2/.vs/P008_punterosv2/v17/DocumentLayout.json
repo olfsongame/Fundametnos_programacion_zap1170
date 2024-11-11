@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyecto semestral 7mo\\Fundametnos_programacion_zap1170\\P008_punterosv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E73C9DE-CEC0-4D64-AAAE-5A8E08A4A03F}|P008_punterosv2.vcxproj|D:\\Proyecto semestral 7mo\\Fundametnos_programacion_zap1170\\P008_punterosv2\\P008_punterosv2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E73C9DE-CEC0-4D64-AAAE-5A8E08A4A03F}|P008_punterosv2.vcxproj|solutionrelative:P008_punterosv2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P008_punterosv2.cpp",
+              "DocumentMoniker": "D:\\Proyecto semestral 7mo\\Fundametnos_programacion_zap1170\\P008_punterosv2\\P008_punterosv2.cpp",
+              "RelativeDocumentMoniker": "P008_punterosv2.cpp",
+              "ToolTip": "D:\\Proyecto semestral 7mo\\Fundametnos_programacion_zap1170\\P008_punterosv2\\P008_punterosv2.cpp",
+              "RelativeToolTip": "P008_punterosv2.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T13:33:12.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
